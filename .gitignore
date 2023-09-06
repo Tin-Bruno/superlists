@@ -1,0 +1,7 @@
+Scripts
+pyvenv.cfg
+Lib
+Include
+geckodriver.log
+__pycache__
+db.sqlite3
