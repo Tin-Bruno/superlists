@@ -38,7 +38,3 @@ class NewVisitorTest(unittest.TestCase):
             any(row.text == '1: Buy peacock feathers' for row in rows)
         )
         self.fail('Finish the test!')
-
-
-if __name__ == '__main__':
-    unittest.main(warnings='ignore')
